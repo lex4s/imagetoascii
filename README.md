@@ -10,7 +10,7 @@ This project converts images into ASCII art using OpenCV.
 ## Requirements
 - Visual Studio with C++ Development Tools
 - OpenCV Library
-
+ 
 ## Setup and Compilation
 1. Install OpenCV and add its include and library paths to Visual Studio:
    - Project → Properties → VC++ Directories.
