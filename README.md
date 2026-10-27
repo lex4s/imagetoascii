@@ -6,7 +6,7 @@ This project converts images into ASCII art using OpenCV.
 - Preserves aspect ratio when resizing images.
 - Maps grayscale pixel values to ASCII characters.
 - Outputs ASCII art to a text file.
-
+ 
 ## Requirements
 - Visual Studio with C++ Development Tools
 - OpenCV Library
